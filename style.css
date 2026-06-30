@@ -4,8 +4,16 @@ img {
 
 body {
     text-align: center;
-    background: blue
+    background: #11111B
 }
-text {
-    color: beige
+p {
+    color: white
+}
+
+*{
+    font-family: "chakra petch", sans-serif;
+}
+
+h1 {
+    color: gray
 }
